@@ -1,5 +1,6 @@
 Aplikacja "Rejestr pracowników", jako projekt przygotowany na zaliczenie przedmiotu "Programowanie Java", autor Szymon Kowalkowski, kierunek Projektowanie gier komputerowych, studia dzienne, semestr II, WSB Merito, wykładowca Pan mgr inż Szymon Guzik.
 Aplikacja to prosty rejestr osób, w tym przypadku pracowników, który umożliwia rejestrację podstawowych danych osobowych pracowników i załączanie zdjęć. Na zakładce podglądu kartotek pracowniczych mamy możliwość podglądu danych zarejestrowanych osób wraz z załączonymi zdjęciami. Dane można przewijać przy pomocy ikon Poprzedni i Następny na zakładce Kartotek i Usuwać na zakładce Formularza. 
+
 Dane logowania do aplikacji to:
 
 Login: admin
@@ -36,6 +37,6 @@ USE employeedb; CREATE TABLE employee (
   photo LONGBLOB
 );
 
-Zainstalować Java SDK w wersji 11 lub wyższej
+Java SDK w wersji 11 lub wyższej
 
 
